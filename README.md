@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mustafakzly
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafakzly51@gmail.com
 <!---
 mustafakzly/mustafakzly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
